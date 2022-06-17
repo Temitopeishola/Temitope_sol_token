@@ -35,3 +35,5 @@ You will also get a url to see your token
   -For the token i created, it can be found here: https://solscan.io/token/CYkbnThsVFT1YMN4YxFpEoWXbkhb1Mw8nrAcVid9nrgj?cluster=devnet#txs
 
 ![IMG_20220617_174554](https://user-images.githubusercontent.com/95692977/174342861-df4da04a-f330-4d28-9411-bde25e548750.png)
+
+I have also created a short video to assist you in running the script: https://youtu.be/TEMEi8u9DR8
